@@ -20,7 +20,7 @@ config.cursor_blink_ease_out = "Constant"
 config.audible_bell = "Disabled"
 config.check_for_updates = false
 config.font = wezterm.font("JetBrains Mono NL")
-config.color_scheme = "iTerm2 Smoooooth"
+config.color_scheme = "rose-pine"
 config.inactive_pane_hsb = { hue = 1.0, saturation = 1.0, brightness = 1.0 }
 config.font_size = 14.0
 config.launch_menu = {}
